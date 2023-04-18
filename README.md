@@ -1,7 +1,7 @@
 
 # Inboost walks bot
 
-This is a test task for Inboost where I create a bot which gives a user stroll-statistics. Using T-SQL I calculate traveled distance using [haversine][haverFormulas]
+This is a test task for Inboost where I create a bot which gives a user stroll-statistics. Using T-SQL I calculate traveled distance using [haversine][haverFormulas] and deal with task-given grouping
 
 ## 🛠 Skills
 .NET/C#, MS SQL Server/T-SQL, Dapper, SSMS, Viber bots

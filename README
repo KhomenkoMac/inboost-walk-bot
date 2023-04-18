@@ -1,7 +1,7 @@
 
 # Inboost walks bot
 
-This is a test task for Inboost where I create a bot which gives a user stroll-statistics demonstrate TSQL, ASP.NET Core WebAPI skills and trying my ability to search and apply new for given   
+This is a test task for Inboost where I create a bot which gives a user stroll-statistics. Using T-SQL I calculate traveled distance using [haversine][haverFormulas]
 
 ## 🛠 Skills
 .NET/C#, MS SQL Server/T-SQL, Dapper, SSMS, Viber bots
@@ -21,3 +21,4 @@ This is a test task for Inboost where I create a bot which gives a user stroll-s
 - [x]  Прорахувати скільки пройшов за день і скільки часу всього гуляв
 - [x]  Створити вайбер бота, де по IMEI вивести загальну інформацію про прогулянку ( кількість, кілометраж, тривалість) і ТОП 10 прогулянок по пройденій відстані. Вводимо IMEI, і отримуємо повідомлення, як на фото. Нажимаємо кнопку «Топ 10» і отримуємо інфо
 
+[haverFormulas]: <https://www-marathonus-com.cdn.ampproject.org/v/s/www.marathonus.com/amp/about/blog/using-haversines-with-sql-to-calculate-accurate-distances/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16816493406594&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marathonus.com%2Fabout%2Fblog%2Fusing-haversines-with-sql-to-calculate-accurate-distances%2F>
